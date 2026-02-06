@@ -1,0 +1,604 @@
+Release Manager
+https://squareup.com/dashboard/release-manager
+https://app.squareup.com/dashboard/release-manager
+
+House Accounts
+https://squareup.com/dashboard/house-accounts
+https://app.squareup.com/dashboard/house-accounts
+
+Bill Pay
+https://squareup.com/dashboard/bill-pay
+https://app.squareup.com/dashboard/bill-pay
+
+History
+https://squareup.com/dashboard/items/inventory/history
+https://app.squareup.com/dashboard/items/inventory/history
+
+Stock Counts
+https://squareup.com/dashboard/items/inventory/stock-counts
+https://app.squareup.com/dashboard/items/inventory/stock-counts
+
+Purchase Orders
+https://squareup.com/dashboard/items/inventory/purchase-orders
+https://app.squareup.com/dashboard/items/inventory/purchase-orders
+
+Transfer Orders
+https://squareup.com/dashboard/items/inventory/transfer-orders
+https://app.squareup.com/dashboard/items/inventory/transfer-orders
+
+Vendors
+https://squareup.com/dashboard/items/inventory/vendors
+https://app.squareup.com/dashboard/items/inventory/vendors
+
+Pending Restocks
+https://squareup.com/dashboard/items/inventory/pending-restocks
+https://app.squareup.com/dashboard/items/inventory/pending-restocks
+
+Items
+https://squareup.com/dashboard/items/library
+https://app.squareup.com/dashboard/items/library
+
+Channel Listings
+https://squareup.com/dashboard/items/listings
+https://app.squareup.com/dashboard/items/listings
+
+Service Library
+https://squareup.com/dashboard/items/services
+https://app.squareup.com/dashboard/items/services
+
+Menus
+https://squareup.com/dashboard/items/menus
+https://app.squareup.com/dashboard/items/menus
+
+Image Library
+https://squareup.com/dashboard/items/images
+https://app.squareup.com/dashboard/items/images
+
+Resources
+https://squareup.com/dashboard/items/resources
+https://app.squareup.com/dashboard/items/resources
+
+Modifiers
+https://squareup.com/dashboard/items/modifiers
+https://app.squareup.com/dashboard/items/modifiers
+
+Categories
+https://squareup.com/dashboard/items/categories
+https://app.squareup.com/dashboard/items/categories
+
+Discounts
+https://squareup.com/dashboard/items/pricing/discounts
+https://app.squareup.com/dashboard/items/pricing/discounts
+
+Item Options
+https://squareup.com/dashboard/items/options
+https://app.squareup.com/dashboard/items/options
+
+Units
+https://squareup.com/dashboard/items/units
+https://app.squareup.com/dashboard/items/units
+
+Custom Attributes
+https://squareup.com/dashboard/items/custom-attributes
+https://app.squareup.com/dashboard/items/custom-attributes
+
+Dining Options
+https://squareup.com/dashboard/items/settings/dining-options
+https://app.squareup.com/dashboard/items/settings/dining-options
+
+Comp and Void
+https://squareup.com/dashboard/items/settings/comp-void-reasons
+https://app.squareup.com/dashboard/items/settings/comp-void-reasons
+
+Device Management
+https://squareup.com/dashboard/devices
+https://app.squareup.com/dashboard/devices
+
+Printer Profiles
+https://squareup.com/dashboard/profiles/printers
+https://app.squareup.com/dashboard/profiles/printers
+
+Kiosk Profiles
+https://squareup.com/dashboard/profiles/kiosk-profiles
+https://app.squareup.com/dashboard/profiles/kiosk-profiles
+
+Device Codes
+https://squareup.com/dashboard/device-codes
+https://app.squareup.com/dashboard/device-codes
+
+Modes
+https://squareup.com/dashboard/profiles/pos
+https://app.squareup.com/dashboard/profiles/pos
+
+Floor Plans
+https://squareup.com/dashboard/point-of-sale/tickets/floor-plans
+https://app.squareup.com/dashboard/point-of-sale/tickets/floor-plans
+
+Sections
+https://squareup.com/dashboard/point-of-sale/tickets/groups
+https://app.squareup.com/dashboard/point-of-sale/tickets/groups
+
+Closing Procedures
+https://squareup.com/dashboard/point-of-sale/service-settings/closing-procedures
+https://app.squareup.com/dashboard/point-of-sale/service-settings/closing-procedures
+
+Seated Status
+https://squareup.com/dashboard/point-of-sale/service-settings/seated-status
+https://app.squareup.com/dashboard/point-of-sale/service-settings/seated-status
+
+Bar Tabs Pre-Auth
+https://squareup.com/dashboard/point-of-sale/service-settings/pre-authorization
+https://app.squareup.com/dashboard/point-of-sale/service-settings/pre-authorization
+
+Menu Behavior
+https://squareup.com/dashboard/point-of-sale/service-settings/menu-behavior
+https://app.squareup.com/dashboard/point-of-sale/service-settings/menu-behavior
+
+Printed Receipt
+https://squareup.com/dashboard/point-of-sale/service-settings/printed-receipt
+https://app.squareup.com/dashboard/point-of-sale/service-settings/printed-receipt
+
+Automatic Gratuity
+https://squareup.com/dashboard/point-of-sale/service-settings/service-charge
+https://app.squareup.com/dashboard/point-of-sale/service-settings/service-charge
+
+Tip Adjustment
+https://squareup.com/dashboard/point-of-sale/service-settings/sales-attribution
+https://app.squareup.com/dashboard/point-of-sale/service-settings/sales-attribution
+
+Courses
+https://squareup.com/dashboard/point-of-sale/service-settings/courses
+https://app.squareup.com/dashboard/point-of-sale/service-settings/courses
+
+Reopen Checks
+https://squareup.com/dashboard/point-of-sale/service-settings/reopen-checks
+https://app.squareup.com/dashboard/point-of-sale/service-settings/reopen-checks
+
+Kiosk
+https://squareup.com/dashboard/point-of-sale/kiosk/configuration
+https://app.squareup.com/dashboard/point-of-sale/kiosk/configuration
+
+Feedback
+https://squareup.com/dashboard/customers/feedback
+https://app.squareup.com/dashboard/customers/feedback
+
+Visits
+https://squareup.com/dashboard/customers/reports/visits
+https://app.squareup.com/dashboard/customers/reports/visits
+
+Satisfaction Ratings
+https://squareup.com/dashboard/customers/reports/satisfaction
+https://app.squareup.com/dashboard/customers/reports/satisfaction
+
+Configure Profiles
+https://squareup.com/dashboard/customers/settings/profiles
+https://app.squareup.com/dashboard/customers/settings/profiles
+
+Feedback Settings
+https://squareup.com/dashboard/customers/settings/feedback
+https://app.squareup.com/dashboard/customers/settings/feedback
+
+Email Collection
+https://squareup.com/dashboard/customers/settings/email-collection
+https://app.squareup.com/dashboard/customers/settings/email-collection
+
+Card on File
+https://squareup.com/dashboard/customers/settings/card-on-file
+https://app.squareup.com/dashboard/customers/settings/card-on-file
+
+Team Members
+https://squareup.com/dashboard/team/team-members
+https://app.squareup.com/dashboard/team/team-members
+
+Permissions
+https://squareup.com/dashboard/team/permissions
+https://app.squareup.com/dashboard/team/permissions
+
+Onboarding
+https://squareup.com/dashboard/team/onboarding
+https://app.squareup.com/dashboard/team/onboarding
+
+Schedule
+https://squareup.com/dashboard/shifts/schedule/shifts
+https://app.squareup.com/dashboard/shifts/schedule/shifts
+
+Availability
+https://squareup.com/dashboard/shifts/schedule/availability
+https://app.squareup.com/dashboard/shifts/schedule/availability
+
+Time Off
+https://squareup.com/dashboard/shifts/schedule/time-off
+https://app.squareup.com/dashboard/shifts/schedule/time-off
+
+Workday
+https://squareup.com/dashboard/shifts/workday
+https://app.squareup.com/dashboard/shifts/workday
+
+Timecards
+https://squareup.com/dashboard/shifts/timecards
+https://app.squareup.com/dashboard/shifts/timecards
+
+Payroll
+https://squareup.com/dashboard/staff/payroll/subscribe
+https://app.squareup.com/dashboard/staff/payroll/subscribe
+
+Announcements
+https://squareup.com/dashboard/team-communication/announcements
+https://app.squareup.com/dashboard/team-communication/announcements
+
+Schedule Settings
+https://squareup.com/dashboard/shifts/settings/schedule
+https://app.squareup.com/dashboard/shifts/settings/schedule
+
+Clock In/Out
+https://squareup.com/dashboard/shifts/settings/clock-in-out
+https://app.squareup.com/dashboard/shifts/settings/clock-in-out
+
+Breaks
+https://squareup.com/dashboard/shifts/settings/breaks
+https://app.squareup.com/dashboard/shifts/settings/breaks
+
+Overtime
+https://squareup.com/dashboard/shifts/settings/overtime
+https://app.squareup.com/dashboard/shifts/settings/overtime
+
+Messaging
+https://squareup.com/dashboard/team-communication/settings/messaging
+https://app.squareup.com/dashboard/team-communication/settings/messaging
+
+Commissions
+https://squareup.com/dashboard/team/commissions
+https://app.squareup.com/dashboard/team/commissions
+
+Notifications & Alerts
+https://squareup.com/dashboard/shifts/settings/notifications-and-alerts
+https://app.squareup.com/dashboard/shifts/settings/notifications-and-alerts
+
+Sales Summary
+https://squareup.com/dashboard/sales/reports/sales-summary
+https://app.squareup.com/dashboard/sales/reports/sales-summary
+
+Sales Trends
+https://squareup.com/dashboard/sales/reports/sales-trends
+https://app.squareup.com/dashboard/sales/reports/sales-trends
+
+Payment Methods
+https://squareup.com/dashboard/sales/reports/payment-methods
+https://app.squareup.com/dashboard/sales/reports/payment-methods
+
+Item Sales
+https://squareup.com/dashboard/sales/reports/item-sales
+https://app.squareup.com/dashboard/sales/reports/item-sales
+
+Category Sales
+https://squareup.com/dashboard/sales/reports/category-sales
+https://app.squareup.com/dashboard/sales/reports/category-sales
+
+Section Sales
+https://squareup.com/dashboard/sales/reports/section-sales
+https://app.squareup.com/dashboard/sales/reports/section-sales
+
+Team Sales
+https://squareup.com/dashboard/sales/reports/team-sales
+https://app.squareup.com/dashboard/sales/reports/team-sales
+
+Labor vs Sales
+https://squareup.com/dashboard/sales/reports/labor
+https://app.squareup.com/dashboard/sales/reports/labor
+
+Kitchen Performance
+https://squareup.com/dashboard/kitchen/reports/performance
+https://app.squareup.com/dashboard/kitchen/reports/performance
+
+Discounts
+https://squareup.com/dashboard/sales/reports/discounts
+https://app.squareup.com/dashboard/sales/reports/discounts
+
+Modifier Sales
+https://squareup.com/dashboard/sales/reports/modifiers
+https://app.squareup.com/dashboard/sales/reports/modifiers
+
+Comps
+https://squareup.com/dashboard/sales/reports/comps
+https://app.squareup.com/dashboard/sales/reports/comps
+
+Voids
+https://squareup.com/dashboard/sales/reports/voids
+https://app.squareup.com/dashboard/sales/reports/voids
+
+Taxes
+https://squareup.com/dashboard/sales/reports/taxes
+https://app.squareup.com/dashboard/sales/reports/taxes
+
+Fees
+https://squareup.com/dashboard/sales/reports/fees
+https://app.squareup.com/dashboard/sales/reports/fees
+
+Service Charges
+https://squareup.com/dashboard/sales/reports/service-charges
+https://app.squareup.com/dashboard/sales/reports/service-charges
+
+Transaction Status
+https://squareup.com/dashboard/sales/reports/transaction-status
+https://app.squareup.com/dashboard/sales/reports/transaction-status
+
+Gift Cards
+https://squareup.com/dashboard/sales/reports/gift-cards
+https://app.squareup.com/dashboard/sales/reports/gift-cards
+
+Custom Reports
+https://squareup.com/dashboard/sales/reports/builder
+https://app.squareup.com/dashboard/sales/reports/builder
+
+Aging Inventory
+https://squareup.com/dashboard/sales/inventory-reports/aging
+https://app.squareup.com/dashboard/sales/inventory-reports/aging
+
+Cost of Goods Sold
+https://squareup.com/dashboard/sales/inventory-reports/cogs
+https://app.squareup.com/dashboard/sales/inventory-reports/cogs
+
+Vendor Sales
+https://squareup.com/dashboard/sales/inventory-reports/vendor-sales
+https://app.squareup.com/dashboard/sales/inventory-reports/vendor-sales
+
+Projected Profit
+https://squareup.com/dashboard/sales/inventory-reports/projected-profit
+https://app.squareup.com/dashboard/sales/inventory-reports/projected-profit
+
+Inventory by Category
+https://squareup.com/dashboard/sales/inventory-reports/category
+https://app.squareup.com/dashboard/sales/inventory-reports/category
+
+Inventory Sell-Through
+https://squareup.com/dashboard/sales/inventory-reports/sell-through
+https://app.squareup.com/dashboard/sales/inventory-reports/sell-through
+
+Traffic & Sources
+https://squareup.com/dashboard/sales/square-online-reports/traffic-and-sources
+https://app.squareup.com/dashboard/sales/square-online-reports/traffic-and-sources
+
+Purchase Funnel
+https://squareup.com/dashboard/sales/square-online-reports/purchase-funnel
+https://app.squareup.com/dashboard/sales/square-online-reports/purchase-funnel
+
+Disputes
+https://squareup.com/dashboard/sales/disputes
+https://app.squareup.com/dashboard/sales/disputes
+
+Cash Drawers
+https://squareup.com/dashboard/sales/cash-drawers
+https://app.squareup.com/dashboard/sales/cash-drawers
+
+Activity Log
+https://squareup.com/dashboard/sales/activity-log
+https://app.squareup.com/dashboard/sales/activity-log
+
+Reporting Hours
+https://squareup.com/dashboard/sales/settings/reporting-hours
+https://app.squareup.com/dashboard/sales/settings/reporting-hours
+
+Campaigns
+https://squareup.com/dashboard/customers/marketing/campaigns
+https://app.squareup.com/dashboard/customers/marketing/campaigns
+
+Automations
+https://squareup.com/dashboard/customers/marketing/automations
+https://app.squareup.com/dashboard/customers/marketing/automations
+
+Google Reviews
+https://squareup.com/dashboard/customers/marketing/google-reviews
+https://app.squareup.com/dashboard/customers/marketing/google-reviews
+
+Coupons
+https://squareup.com/dashboard/customers/marketing/coupons
+https://app.squareup.com/dashboard/customers/marketing/coupons
+
+Assistant
+https://squareup.com/dashboard/customers/marketing/assistant
+https://app.squareup.com/dashboard/customers/marketing/assistant
+
+Contact Collection
+https://squareup.com/dashboard/customers/marketing/contact-collection
+https://app.squareup.com/dashboard/customers/marketing/contact-collection
+
+Marketing Settings
+https://squareup.com/dashboard/customers/marketing/settings
+https://app.squareup.com/dashboard/customers/marketing/settings
+
+Contracts
+https://squareup.com/dashboard/contracts
+https://app.squareup.com/dashboard/contracts
+
+Templates
+https://squareup.com/dashboard/contracts/templates
+https://app.squareup.com/dashboard/contracts/templates
+
+Clauses
+https://squareup.com/dashboard/contracts/clauses
+https://app.squareup.com/dashboard/contracts/clauses
+
+Invoices
+https://squareup.com/dashboard/invoices
+https://app.squareup.com/dashboard/invoices
+
+Projects
+https://squareup.com/dashboard/projects
+https://app.squareup.com/dashboard/projects
+
+Invoices
+https://squareup.com/dashboard/invoices
+https://app.squareup.com/dashboard/invoices
+
+Recurring Series
+https://squareup.com/dashboard/invoices/series
+https://app.squareup.com/dashboard/invoices/series
+
+Estimates
+https://squareup.com/dashboard/invoices/estimates
+https://app.squareup.com/dashboard/invoices/estimates
+
+Reports
+https://squareup.com/dashboard/invoices/reports/outstanding
+https://app.squareup.com/dashboard/invoices/reports/outstanding
+
+Apps
+https://squareup.com/dashboard/invoices/partner-apps
+https://app.squareup.com/dashboard/invoices/partner-apps
+
+Sign in & Security
+https://squareup.com/dashboard/account
+https://app.squareup.com/dashboard/account
+
+Preferences
+https://squareup.com/dashboard/account/preferences
+https://app.squareup.com/dashboard/account/preferences
+
+About
+https://squareup.com/dashboard/business/about-my-business
+https://app.squareup.com/dashboard/business/about-my-business
+
+Security
+https://squareup.com/dashboard/business/business-security
+https://app.squareup.com/dashboard/business/business-security
+
+Locations
+https://squareup.com/dashboard/locations
+https://app.squareup.com/dashboard/locations
+
+Pricing & Subscriptions
+https://squareup.com/dashboard/account/pricing
+https://app.squareup.com/dashboard/account/pricing
+
+Receipts
+https://squareup.com/dashboard/business/receipt
+https://app.squareup.com/dashboard/business/receipt
+
+Sales Taxes
+https://squareup.com/dashboard/business/manual-taxes
+https://app.squareup.com/dashboard/business/manual-taxes
+
+Service Charges
+https://squareup.com/dashboard/business/pricing/service-charges
+https://app.squareup.com/dashboard/business/pricing/service-charges
+
+Payment Methods
+https://squareup.com/dashboard/business/payment-methods
+https://app.squareup.com/dashboard/business/payment-methods
+
+Bank Accounts
+https://squareup.com/dashboard/balances/bank-accounts
+https://app.squareup.com/dashboard/balances/bank-accounts
+
+Transfers
+https://squareup.com/dashboard/business/transfers
+https://app.squareup.com/dashboard/business/transfers
+
+Account
+https://squareup.com/dashboard/business/email-notifications
+https://app.squareup.com/dashboard/business/email-notifications
+
+Outages
+https://squareup.com/dashboard/business/outage-notifications
+https://app.squareup.com/dashboard/business/outage-notifications
+
+Invoices
+https://squareup.com/dashboard/invoices/settings/notifications
+https://app.squareup.com/dashboard/invoices/settings/notifications
+
+Staff
+https://squareup.com/dashboard/shifts/settings/notifications
+https://app.squareup.com/dashboard/shifts/settings/notifications
+
+Disputes
+https://squareup.com/dashboard/disputes-notifications
+https://app.squareup.com/dashboard/disputes-notifications
+
+Tax Forms
+https://squareup.com/dashboard/business/taxes
+https://app.squareup.com/dashboard/business/taxes
+
+CCPA
+https://squareup.com/dashboard/business/ccpa
+https://app.squareup.com/dashboard/business/ccpa
+
+Online Pickup & Delivery
+https://squareup.com/dashboard/fulfillment/preferences/pickup-delivery
+https://app.squareup.com/dashboard/fulfillment/preferences/pickup-delivery
+
+Shipment
+https://squareup.com/dashboard/fulfillment/preferences/shipment
+https://app.squareup.com/dashboard/fulfillment/preferences/shipment
+
+Non-Physical
+https://squareup.com/dashboard/fulfillment/preferences/non-physical
+https://app.squareup.com/dashboard/fulfillment/preferences/non-physical
+
+Order Square Hardware
+https://squareup.com/us/en/hardware
+https://app.squareup.com/us/en/hardware
+
+My Orders
+https://squareup.com/dashboard/account/order-status
+https://app.squareup.com/dashboard/account/order-status
+
+Information Requests
+https://squareup.com/dashboard/business/information-requests
+https://app.squareup.com/dashboard/business/information-requests
+
+Get Free Processing
+https://squareup.com/dashboard/account/referrals
+https://app.squareup.com/dashboard/account/referrals
+
+Online Sales Channels
+https://squareup.com/dashboard/online-channels/overview
+https://app.squareup.com/dashboard/online-channels/overview
+
+All Orders
+https://squareup.com/dashboard/orders/overview
+https://app.squareup.com/dashboard/orders/overview
+
+Shipments
+https://squareup.com/dashboard/orders/shipments
+https://app.squareup.com/dashboard/orders/shipments
+
+Order Partners
+https://squareup.com/dashboard/orders/partners
+https://app.squareup.com/dashboard/orders/partners
+
+Fulfillment Settings
+https://squareup.com/dashboard/orders/fulfillment-settings
+https://app.squareup.com/dashboard/orders/fulfillment-settings
+
+Instant Payouts
+https://squareup.com/dashboard/orders/instant-payouts-settings
+https://app.squareup.com/dashboard/orders/instant-payouts-settings
+
+Gift Cards
+https://squareup.com/dashboard/gift-cards
+https://app.squareup.com/dashboard/gift-cards
+
+eGift Cards
+https://squareup.com/dashboard/gift-cards/electronic/configure
+https://app.squareup.com/dashboard/gift-cards/electronic/configure
+
+Discounts
+https://squareup.com/dashboard/gift-cards/electronic/discounts
+https://app.squareup.com/dashboard/gift-cards/electronic/discounts
+
+Plastic Gift Cards
+https://squareup.com/dashboard/gift-cards/plastic
+https://app.squareup.com/dashboard/gift-cards/plastic
+
+Promotional Tools
+https://squareup.com/dashboard/gift-cards/promotional-tools
+https://app.squareup.com/dashboard/gift-cards/promotional-tools
+
+Gift Card Settings
+https://squareup.com/dashboard/gift-cards/settings
+https://app.squareup.com/dashboard/gift-cards/settings
+
+Create New Item
+https://app.squareup.com/dashboard/items/library/new/
+https://app.squareup.com/dashboard/items/library/new
+

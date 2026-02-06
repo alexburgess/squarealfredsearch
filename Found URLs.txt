@@ -1,0 +1,638 @@
+Items & Menus
+
+Array (43) = $5
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/items/library"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/items/listings/"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/items/services"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/items/images"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/items/resources"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/items/modifiers"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/items/categories"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/items/pricing/discounts"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/items/options"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/items/units"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/items/custom-attributes"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/items/settings/item-defaults"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/items/settings/dining-options"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/items/settings/comp-void-reasons"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/items/settings/inventory"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/items/settings/checkout-links"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/stock-overview"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/history"}
+29
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/stock-counts"}
+30
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/purchase-orders"}
+31
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/transfer-orders"}
+32
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/vendors"}
+33
+{text: "", href: "https://app.squareup.com/dashboard/items/inventory/pending-restocks"}
+34
+{text: "", href: "https://app.squareup.com/us/en/inventory-management/restaurants"}
+35
+{text: "", href: "https://app.squareup.com/dashboard/items/order-guide"}
+36
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards"}
+37
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards/electronic/configure"}
+38
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards/electronic/discounts"}
+39
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards/plastic"}
+40
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards/promotional-tools"}
+41
+{text: "", href: "https://app.squareup.com/dashboard/gift-cards/settings"}
+42
+{text: "", href: "https://app.squareup.com/dashboard/subscriptions/plans"}
+
+Array Prototype
+
+
+Orders & Payments
+
+
+Array (38) = $1
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/orders/overview"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/orders/shipments"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/orders/partners"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/orders/fulfillment-settings"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/orders/instant-payouts-settings"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/invoices/overview"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/projects"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/invoices"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/invoices/series"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/invoices/estimates"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/invoices/reports/outstanding"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/invoices/partner-apps"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/pos/overview"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/pos/settings/checkout"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/payment-links"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/payment-links/settings/general"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/payment-links/settings/branding"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/subscriptions-list"}
+29
+{text: "", href: "https://app.squareup.com/dashboard/sales/disputes"}
+30
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/overview"}
+31
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/alerts"}
+32
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/rules"}
+33
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/block-list"}
+34
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/allow-list"}
+35
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/blocked-payments"}
+36
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/allowed-payments"}
+37
+{text: "", href: "https://app.squareup.com/dashboard/risk-manager/settings"}
+
+Array Prototype
+
+Online
+
+
+Array (17) = $2
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/ordering-profile/overview"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/ordering-profile/qr-codes"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/neighborhoods"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/online-channels/overview"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/ordering-profile/settings"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/sites"}
+
+Array Prototype
+
+
+Customers
+
+Array (45) = $3
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/customers/directory"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/customers/feedback"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/customers/reports/visits"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/customers/reports/satisfaction"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/customers/settings/profiles"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/customers/settings/feedback"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/customers/settings/email-collection"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/customers/settings/card-on-file"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/contracts"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/contracts/templates"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/contracts/clauses"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/campaigns"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/automations"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/google-reviews"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/coupons"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/assistant"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/contact-collection"}
+29
+{text: "", href: "https://app.squareup.com/dashboard/customers/marketing/settings"}
+30
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty"}
+31
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/reports/visits"}
+32
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/reports/sales"}
+33
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/reports/top-customers"}
+34
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/activity/all"}
+35
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/activity/suspicious"}
+36
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/marketing/email"}
+37
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/marketing/text-message"}
+38
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/marketing/other"}
+39
+{text: "", href: "https://app.squareup.com/dashboard/loyalty/promotions"}
+40
+{text: "", href: "https://app.squareup.com/dashboard/loyalty/tiers"}
+41
+{text: "", href: "https://app.squareup.com/dashboard/customers/loyalty/settings"}
+42
+{text: "", href: "https://app.squareup.com/dashboard/house-accounts"}
+43
+{text: "", href: "https://app.squareup.com/dashboard/house-accounts/reports"}
+44
+{text: "", href: "https://app.squareup.com/dashboard/house-accounts/settings"}
+
+Array Prototype
+
+
+Array (40) = $4
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/item-sales"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-trends"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/category-sales"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/modifiers"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/gift-cards"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/section-sales"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/vendor-sales"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/taxes"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/fees"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/service-charges"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/reconciliation"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/payment-methods"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/transaction-status"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/discounts"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/comps"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/voids"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/sales/cash-drawers"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/sales/activity-log"}
+29
+{text: "", href: "https://app.squareup.com/dashboard/kitchen/reports/performance"}
+30
+{text: "", href: "https://app.squareup.com/dashboard/sales/square-online-reports/traffic-and-sources"}
+31
+{text: "", href: "https://app.squareup.com/dashboard/sales/square-online-reports/purchase-funnel"}
+32
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/cogs"}
+33
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/category"}
+34
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/projected-profit"}
+35
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/sell-through"}
+36
+{text: "", href: "https://app.squareup.com/dashboard/sales/inventory-reports/aging"}
+37
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/custom-item-report"}
+38
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/builder"}
+39
+{text: "", href: "https://app.squareup.com/dashboard/sales/settings/reporting-hours"}
+
+Array Prototype
+
+
+Staff
+
+Array (29) = $1
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/team/team-members"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/team/permissions"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/team/onboarding"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/shifts/schedule/shifts"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/shifts/schedule/availability"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/shifts/schedule/time-off"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/shifts/workday"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/shifts/timecards"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/staff/payroll/subscribe"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/team-communication/announcements"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/schedule"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/clock-in-out"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/breaks"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/overtime"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/team-communication/settings/messaging"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/tips"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/team/commissions"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/notifications-and-alerts"}
+
+Array Prototype
+
+
+Banking
+
+Array (23) = $2
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/balances"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/balance/balance"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/balances/checking"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/balances/folders"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/loans"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/credit-card"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/bill-pay"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/bill-pay/settings/vendors"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/bill-pay/settings/billing"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/bill-pay/settings/notifications"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/bill-pay/settings/email-forwarding"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/balances/bitcoin/wallet"}
+
+Array Prototype
+
+
+Array (58) = $3
+0
+{text: "More information", href: "https://squareup.com/gb/en/legal/general/cookie"}
+1
+{text: "Privacy Notice", href: "https://squareup.com/us/en/legal/general/privacy"}
+2
+{text: "", href: "https://www.onetrust.com/products/cookie-consent/"}
+3
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/sales-summary"}
+4
+{text: "", href: "https://app.squareup.com/dashboard/sales/transactions"}
+5
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/labor"}
+6
+{text: "", href: "https://app.squareup.com/dashboard/sales/reports/team-sales"}
+7
+{text: "", href: "https://app.squareup.com/balances"}
+8
+{text: "", href: "https://app.squareup.com/dashboard/items/menus"}
+9
+{text: "", href: "https://app.squareup.com/dashboard/items/library/new"}
+10
+{text: "", href: "https://app.squareup.com/dashboard/take-payment"}
+11
+{text: "", href: "https://app.squareup.com/dashboard/account"}
+12
+{text: "", href: "https://app.squareup.com/dashboard/account/preferences"}
+13
+{text: "", href: "https://app.squareup.com/dashboard/business/about-my-business"}
+14
+{text: "", href: "https://app.squareup.com/dashboard/business/business-security"}
+15
+{text: "", href: "https://app.squareup.com/dashboard/locations"}
+16
+{text: "", href: "https://app.squareup.com/dashboard/account/pricing"}
+17
+{text: "", href: "https://app.squareup.com/dashboard/business/receipt"}
+18
+{text: "", href: "https://app.squareup.com/dashboard/business/manual-taxes"}
+19
+{text: "", href: "https://app.squareup.com/dashboard/business/pricing/service-charges"}
+20
+{text: "", href: "https://app.squareup.com/dashboard/business/payment-methods"}
+21
+{text: "", href: "https://app.squareup.com/dashboard/business/check-settlement"}
+22
+{text: "", href: "https://app.squareup.com/dashboard/balances/bank-accounts"}
+23
+{text: "", href: "https://app.squareup.com/dashboard/business/transfers"}
+24
+{text: "", href: "https://app.squareup.com/dashboard/business/email-notifications"}
+25
+{text: "", href: "https://app.squareup.com/dashboard/business/outage-notifications"}
+26
+{text: "", href: "https://app.squareup.com/dashboard/invoices/settings/notifications"}
+27
+{text: "", href: "https://app.squareup.com/dashboard/shifts/settings/notifications"}
+28
+{text: "", href: "https://app.squareup.com/dashboard/disputes-notifications"}
+29
+{text: "", href: "https://app.squareup.com/dashboard/business/taxes"}
+30
+{text: "", href: "https://app.squareup.com/dashboard/business/ccpa"}
+31
+{text: "", href: "https://app.squareup.com/dashboard/fulfillment/preferences/pickup-delivery"}
+32
+{text: "", href: "https://app.squareup.com/dashboard/fulfillment/preferences/shipment"}
+33
+{text: "", href: "https://app.squareup.com/dashboard/fulfillment/preferences/non-physical"}
+34
+{text: "", href: "https://app.squareup.com/us/en/hardware"}
+35
+{text: "", href: "https://app.squareup.com/dashboard/account/order-status"}
+36
+{text: "", href: "https://app.squareup.com/dashboard/business/information-requests"}
+37
+{text: "", href: "https://app.squareup.com/dashboard/account/referrals"}
+38
+{text: "", href: "https://app.squareup.com/dashboard/devices"}
+39
+{text: "", href: "https://app.squareup.com/dashboard/profiles/printers"}
+40
+{text: "", href: "https://app.squareup.com/dashboard/profiles/kiosk-profiles"}
+41
+{text: "", href: "https://app.squareup.com/dashboard/device-codes"}
+42
+{text: "", href: "https://app.squareup.com/dashboard/profiles/pos"}
+43
+{text: "", href: "https://app.squareup.com/dashboard/kitchen/service-settings/kitchen-displays"}
+44
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/kiosk/configuration"}
+45
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/tickets/floor-plans"}
+46
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/tickets/groups"}
+47
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/closing-procedures"}
+48
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/seated-status"}
+49
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/pre-authorization"}
+50
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/menu-behavior"}
+51
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/printed-receipt"}
+52
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/service-charge"}
+53
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/sales-attribution"}
+54
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/courses"}
+55
+{text: "", href: "https://app.squareup.com/dashboard/point-of-sale/service-settings/reopen-checks"}
+56
+{text: "", href: "https://app.squareup.com/dashboard/apps/my-applications"}
+57
+{text: "", href: "https://app.squareup.com/dashboard/release-manager"}
+
+Array Prototype
+
